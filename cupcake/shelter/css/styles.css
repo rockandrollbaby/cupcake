@@ -1,0 +1,26 @@
+
+body {
+  font-family:sans-serif;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+.column {
+  width: 30%;
+  float: left;
+  padding: 20px;
+  background-color: beige;
+  padding: 10px;
+  border: 2px solid green;
+  margin: 10px;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+
+.column h3 {
+  color: brown;
+  text-align: left;
+}
