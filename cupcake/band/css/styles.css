@@ -5,9 +5,11 @@
   float: right;
   background-color: salmon;
   padding: 10px;
+  border: 2px solid green;
 }
 
 img {
   float:left;
   width: 50%;
+  padding: 20px;
 }
