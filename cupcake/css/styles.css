@@ -11,3 +11,23 @@ img {
   display: inline-table;
 
 }
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+p.important {
+  color: purple;
+}
+h2.intro {
+  font-weight: bold;
+  font-style: italic;
+}
+img.intro {
+  width: 50%
+}
