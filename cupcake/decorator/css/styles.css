@@ -2,3 +2,15 @@
   width: 30%;
   float: left;
 }
+
+.before {
+  background-color: pink;
+}
+
+.during {
+  background-color: yellow;
+}
+
+.after {
+  background-color: beige;
+}
