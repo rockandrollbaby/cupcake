@@ -5,3 +5,9 @@
 .best {
   font-weight: bold;
 }
+
+img {
+  width: 200px;
+  display: inline-table;
+
+}
