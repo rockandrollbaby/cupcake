@@ -11,11 +11,12 @@ img {
   display: inline-table;
 
 }
-p.intro {
+
+.intro {
   width: 50%;
   font-style: italic;
+  font-weight: bold;
 }
-
 p.author {
   width: 75%;
   font-style: italic;
@@ -24,6 +25,12 @@ p.author {
 p.important {
   color: purple;
 }
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
 h2.intro {
   font-weight: bold;
   font-style: italic;
