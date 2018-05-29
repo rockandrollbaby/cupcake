@@ -38,3 +38,9 @@ h2.intro {
 img.intro {
   width: 50%
 }
+
+.orange-font {
+  padding: 12px;
+  border: 1px solid black;
+  color: orange;
+}
